@@ -1,0 +1,12 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: net.tecrafteo.enderchestplotplugin.main.EnderChestPlot
+description: >
+             Protege tu Area con un EnderChest.	
+author: ranzi0
+website: http://www.tecrafteo.net
+commands:
+  cubo:
+    description: Genera un Cubo!
+  proteger:
+    description: Genera un area protegida!
